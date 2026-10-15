@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/hiclass/commit/6384239b29c691b50f25f1c467a4d5dab6cfb901",
       "git:hexsha": "6384239b29c691b50f25f1c467a4d5dab6cfb901",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v5.0.8"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v5.0.8",
+      "repolex:parsedAt": "2026-10-15T21:36:39.875281+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/hiclass/commit/f22ad220afac9e085051ffc396427d733dcbe074",
