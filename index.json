@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "hiclass",
+  "versions": [
+    {
+      "commit": "6384239b29c691b50f25f1c467a4d5dab6cfb901",
+      "tag": "v5.0.8",
+      "parsed_at": "2026-10-15T21:36:39.876147+00:00"
+    }
+  ]
+}
